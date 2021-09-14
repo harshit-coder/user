@@ -1,4 +1,4 @@
-
+[
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -58,4 +58,5 @@
       "city": "Roscoeview",
       "zipcode": "33263"
     }
-  },
+  }
+  ]
